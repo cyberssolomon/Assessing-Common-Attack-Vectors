@@ -39,19 +39,19 @@ Project consists of exploring several common attack vectors: injection-based att
 
 <p align="center">
 Show the DOM XSS dialog box: <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/7aHD4iE.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the successful admin login:  <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/JOB3hhA.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the successful Reflected XSS injection: <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/OnhZR4f.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the user with the @owasp.org email:  <br/>
-<img src="" height="80%" width="80%" alt="Section 1n Steps"/>
+<img src="https://i.imgur.com/EuwMdlk.png" height="80%" width="80%" alt="Section 1n Steps"/>
 <
  <h2>Perform a Malware Attack:</h2>
 
@@ -63,15 +63,15 @@ Show the user with the @owasp.org email:  <br/>
 
 <p align="center">
 Show the msfvenom output: <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/VSbVFM1.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the Opening malwarePayload.exe dialog box::  <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/vTW4VSS.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the output of the sysinfo command: <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/EB44TMv.png" height="80%" width="80%" alt="Section 1 Steps"/>
 
 
 
@@ -96,19 +96,19 @@ Show the output of the sysinfo command: <br/>
 
 <p align="center">
 Show the newly recruited hosts: <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/XN5lWrn.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the drisst.org webpage:  <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/PhBA3zS.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the failed connection to drisst.org: <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/wSMPJkb.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the "PF states limit reached" error message : <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/DUqJ5ex.png" height="80%" width="80%" alt="Section 1 Steps"/>
 
 
  <h2>Perform a Social Engineering Attack:</h2>
@@ -124,11 +124,11 @@ Show the "PF states limit reached" error message : <br/>
 
 <p align="center">
 Show the finished SET phising email composition: <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/8UDXCUR.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the transaction.php page in the browser: <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/tHLsMPr.png" height="80%" width="80%" alt="Section 1 Steps"/>
 
 
 
