@@ -96,19 +96,19 @@ Show the output of the sysinfo command: <br/>
 
 <p align="center">
 Show the newly recruited hosts: <br/>
-<img src="https://i.imgur.com/XN5lWrn.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/XN5lWrn.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the drisst.org webpage:  <br/>
-<img src="https://i.imgur.com/PhBA3zS.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/PhBA3zS.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the failed connection to drisst.org: <br/>
-<img src="https://i.imgur.com/wSMPJkb.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/wSMPJkb.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the "PF states limit reached" error message : <br/>
-<img src="https://i.imgur.com/DUqJ5ex.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/DUqJ5ex.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
  <h2>Perform a Social Engineering Attack:</h2>
@@ -124,11 +124,11 @@ Show the "PF states limit reached" error message : <br/>
 
 <p align="center">
 Show the finished SET phising email composition: <br/>
-<img src="https://i.imgur.com/8UDXCUR.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/8UDXCUR.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the transaction.php page in the browser: <br/>
-<img src="https://i.imgur.com/tHLsMPr.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/tHLsMPr.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
 
